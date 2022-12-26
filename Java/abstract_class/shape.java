@@ -1,4 +1,4 @@
-package abstractclass;
+package abstract_class;
 
 abstract class shape {
     int numberofslides(){
