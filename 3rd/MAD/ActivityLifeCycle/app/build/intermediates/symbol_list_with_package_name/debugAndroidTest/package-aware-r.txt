@@ -1,3 +1,0 @@
-com.example.activitylifecycle.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
